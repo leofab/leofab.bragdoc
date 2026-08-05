@@ -2,7 +2,7 @@
 
 ## Data Visualization — SwiftUI Charts
 
-**Delivered production-ready native data visualization components (linear & donut charts)** using SwiftUI's Charts framework for Brazil's largest banking app (36M+ active users). Response time with backend data: 0.4ms. Bundle size under 70MB. Fully adopted by product teams and shipped to production.
+**Delivered production-ready native data visualization components (linear & donut charts)** using SwiftUI's Charts framework for Brazil's largest banking app (36M+ active users). Response time with backend data: 900 ms. Bundle size under 5MB. Fully adopted by product teams and shipped to production.
 
 **Took ownership of the full implementation pipeline under pressure** — when another squad missed the deadline, stepped in and delivered the complete integration into the main app within 2 weeks, despite a large legacy codebase and cross-team dependencies.
 
